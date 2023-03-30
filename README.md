@@ -6,7 +6,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mathraphael&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathraphael&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathraphael)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo em meus projetos
 
