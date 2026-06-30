@@ -30,5 +30,5 @@
 
 #
 
-Desenvolvedor e pesquisador, entusiasta de tecnologia com conhecimentos nas principais linguagens utilizadas no mercado. Em um relacionamento sério com desenvolvimento Web.
+Sou profissional da área de Tecnologia da Informação com formação em Sistemas de Informação e pós-graduação em Engenharia de Software. Tenho experiência sólida em suporte técnico, desenvolvimento mobile e análise de dados, atuando tanto em empresas privadas quanto em estágio acadêmico. Atualmente trabalho com suporte técnico pleno, realizando instalação, configuração e manutenção de sistemas ERP, além de integração com APIs, análise de XML, emissão de notas fiscais via webservice e atendimento ao cliente com foco em resolução ágil de problemas. Também já atuei com desenvolvimento em Flutter, Java e Spring Boot, além de ferramentas de análise de dados como Power BI e Excel.
 
